@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f2759622161d81f298c66f181da732b0962dec8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_743f7ba52b68d486f6c7385a8dd182e4d94284d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6383d90b735d408d0f630a52cda83a2964c4817c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5ecc1c22320c814e6d516f213f051374948aff9d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_4257e7584269c487cf79c505cdd42c692ed98e99/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_db20f8f332f8d20ad661e2539b24f3e87ac95d16/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_675162772492a1c53ce33eb35d3304aa3bcd33d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0acf3cdaf37696c3846ef8e8a113ea380c833787">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2ca6d50a678db7c05ca28f87a6dacb237f337360/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a12c8d77bd58ffea6e38ee6dc513fbab29ee1b25">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2466dd6bedfcc40df1f16964e6d5af5bad33fc19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/cola/AndroidStudioProjects/Colas/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_948ac97ced1af9156609358acdaca17196883bd3/classes.dex" />
+    </item>
+
+</items>
